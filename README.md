@@ -52,6 +52,6 @@ Caso você use o Visual Studio Code, sugiro que instale as extensões ESlint e E
 Caso queira mudar o modelo para Airbnb ou outro modelo, apague o arquivo .eslintrc.json, apague as dependecias do eslint no packege.json e use este comando na raiz do projeto
 
 ```powershell
-eslint --init
+npx eslint --init
 ```
 </p>
